@@ -1,0 +1,3 @@
+{
+	"gate": "function block() {throw new Error('Assessments are closed');}"
+}
